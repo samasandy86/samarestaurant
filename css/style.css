@@ -6,11 +6,37 @@
         S-Light: #bef67a;
         S-Dark: #5a9216
 */
+/* Global Styles */
 body{
     background-color: #b71c1c;
 
 }
 h1, h2{
+    text-align: center;
     font-family: 'Rammetto One', cursive;
+}
 
+h1{
+    font-size: 48px;
+}
+li {
+    display: inline-block;
+    font-size: 34px;
+}
+a{
+    font-size: 36px;
+}
+/* Header Styles */
+
+header li {
+    margin: 0 10px;
+}
+header li:first-of-type {
+    margin-left: 0; 
+}
+
+
+/* Footer Styles */
+footer a{
+    font-size: 64px;
 }
