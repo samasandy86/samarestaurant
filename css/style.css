@@ -1,0 +1,16 @@
+/* Color Palettes
+----Primary: #b71c1c;
+        P-Light: #f05545;
+        P-Dark: #7f0000;
+----Secondary: #8bc34a;
+        S-Light: #bef67a;
+        S-Dark: #5a9216
+*/
+body{
+    background-color: #b71c1c;
+
+}
+h1, h2{
+    font-family: 'Rammetto One', cursive;
+
+}
